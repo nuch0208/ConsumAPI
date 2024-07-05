@@ -10,8 +10,9 @@ builder.Services.AddServerSideBlazor();
 builder.Services.AddSingleton<WeatherForecastService>();
 builder.Services.AddHttpClient("api", (serviceProvider, client) =>
 {
-    client.BaseAddress = new Uri("http://localhost:5037/"); // base address is the web api address
+    client.BaseAddress = new Uri("http://localhost:5047/"); // base address is the web api address
 });
+
 
 var app = builder.Build();
 

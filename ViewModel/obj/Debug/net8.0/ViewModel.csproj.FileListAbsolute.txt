@@ -9,3 +9,15 @@ D:\sknhpm012\ViewModel\obj\Debug\net8.0\ViewModel.dll
 D:\sknhpm012\ViewModel\obj\Debug\net8.0\refint\ViewModel.dll
 D:\sknhpm012\ViewModel\obj\Debug\net8.0\ViewModel.pdb
 D:\sknhpm012\ViewModel\obj\Debug\net8.0\ref\ViewModel.dll
+C:\Users\Admin\Desktop\ConsumAPI\ViewModel\bin\Debug\net8.0\ViewModel.deps.json
+C:\Users\Admin\Desktop\ConsumAPI\ViewModel\bin\Debug\net8.0\ViewModel.dll
+C:\Users\Admin\Desktop\ConsumAPI\ViewModel\bin\Debug\net8.0\ViewModel.pdb
+C:\Users\Admin\Desktop\ConsumAPI\ViewModel\obj\Debug\net8.0\ViewModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\ConsumAPI\ViewModel\obj\Debug\net8.0\ViewModel.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\ConsumAPI\ViewModel\obj\Debug\net8.0\ViewModel.AssemblyInfo.cs
+C:\Users\Admin\Desktop\ConsumAPI\ViewModel\obj\Debug\net8.0\ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ConsumAPI\ViewModel\obj\Debug\net8.0\ViewModel.sourcelink.json
+C:\Users\Admin\Desktop\ConsumAPI\ViewModel\obj\Debug\net8.0\ViewModel.dll
+C:\Users\Admin\Desktop\ConsumAPI\ViewModel\obj\Debug\net8.0\refint\ViewModel.dll
+C:\Users\Admin\Desktop\ConsumAPI\ViewModel\obj\Debug\net8.0\ViewModel.pdb
+C:\Users\Admin\Desktop\ConsumAPI\ViewModel\obj\Debug\net8.0\ref\ViewModel.dll

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "qzFAFDFiuMJTsXiq2cV+g0Z/pjdjgsCPIVg1rG9OooU=",
+  "Hash": "1J3OEZAZ1kvo+P8W1aOXZ/EM607Mr9ec/Qj1tCl9nD4=",
   "Source": "sknhpm",
   "BasePath": "_content/sknhpm",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "sknhpm\\wwwroot",
       "Source": "sknhpm",
-      "ContentRoot": "D:\\sknhpm012\\sknhpm\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\ConsumAPI\\sknhpm\\wwwroot\\",
       "BasePath": "_content/sknhpm",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\sknhpm012\\sknhpm\\obj\\Debug\\net8.0\\scopedcss\\bundle\\sknhpm.styles.css",
+      "Identity": "C:\\Users\\Admin\\Desktop\\ConsumAPI\\sknhpm\\obj\\Debug\\net8.0\\scopedcss\\bundle\\sknhpm.styles.css",
       "SourceId": "sknhpm",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\sknhpm012\\sknhpm\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\ConsumAPI\\sknhpm\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/sknhpm",
       "RelativePath": "sknhpm.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\sknhpm012\\sknhpm\\obj\\Debug\\net8.0\\scopedcss\\bundle\\sknhpm.styles.css"
+      "OriginalItemSpec": "C:\\Users\\Admin\\Desktop\\ConsumAPI\\sknhpm\\obj\\Debug\\net8.0\\scopedcss\\bundle\\sknhpm.styles.css"
     },
     {
-      "Identity": "D:\\sknhpm012\\sknhpm\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\sknhpm.bundle.scp.css",
+      "Identity": "C:\\Users\\Admin\\Desktop\\ConsumAPI\\sknhpm\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\sknhpm.bundle.scp.css",
       "SourceId": "sknhpm",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\sknhpm012\\sknhpm\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\ConsumAPI\\sknhpm\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/sknhpm",
       "RelativePath": "sknhpm.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\sknhpm012\\sknhpm\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\sknhpm.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\Admin\\Desktop\\ConsumAPI\\sknhpm\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\sknhpm.bundle.scp.css"
     },
     {
-      "Identity": "D:\\sknhpm012\\sknhpm\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\Users\\Admin\\Desktop\\ConsumAPI\\sknhpm\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "SourceId": "sknhpm",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sknhpm012\\sknhpm\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\ConsumAPI\\sknhpm\\wwwroot\\",
       "BasePath": "_content/sknhpm",
       "RelativePath": "css/bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "D:\\sknhpm012\\sknhpm\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\Admin\\Desktop\\ConsumAPI\\sknhpm\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "sknhpm",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sknhpm012\\sknhpm\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\ConsumAPI\\sknhpm\\wwwroot\\",
       "BasePath": "_content/sknhpm",
       "RelativePath": "css/bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "D:\\sknhpm012\\sknhpm\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "Identity": "C:\\Users\\Admin\\Desktop\\ConsumAPI\\sknhpm\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "SourceId": "sknhpm",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sknhpm012\\sknhpm\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\ConsumAPI\\sknhpm\\wwwroot\\",
       "BasePath": "_content/sknhpm",
       "RelativePath": "css/open-iconic/font/css/open-iconic-bootstrap.min.css",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
     },
     {
-      "Identity": "D:\\sknhpm012\\sknhpm\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "Identity": "C:\\Users\\Admin\\Desktop\\ConsumAPI\\sknhpm\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
       "SourceId": "sknhpm",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sknhpm012\\sknhpm\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\ConsumAPI\\sknhpm\\wwwroot\\",
       "BasePath": "_content/sknhpm",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.eot",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
     },
     {
-      "Identity": "D:\\sknhpm012\\sknhpm\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "Identity": "C:\\Users\\Admin\\Desktop\\ConsumAPI\\sknhpm\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
       "SourceId": "sknhpm",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sknhpm012\\sknhpm\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\ConsumAPI\\sknhpm\\wwwroot\\",
       "BasePath": "_content/sknhpm",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.otf",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
     },
     {
-      "Identity": "D:\\sknhpm012\\sknhpm\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\ConsumAPI\\sknhpm\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
       "SourceId": "sknhpm",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sknhpm012\\sknhpm\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\ConsumAPI\\sknhpm\\wwwroot\\",
       "BasePath": "_content/sknhpm",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.svg",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
     },
     {
-      "Identity": "D:\\sknhpm012\\sknhpm\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "Identity": "C:\\Users\\Admin\\Desktop\\ConsumAPI\\sknhpm\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
       "SourceId": "sknhpm",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sknhpm012\\sknhpm\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\ConsumAPI\\sknhpm\\wwwroot\\",
       "BasePath": "_content/sknhpm",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.ttf",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
     },
     {
-      "Identity": "D:\\sknhpm012\\sknhpm\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "Identity": "C:\\Users\\Admin\\Desktop\\ConsumAPI\\sknhpm\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
       "SourceId": "sknhpm",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sknhpm012\\sknhpm\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\ConsumAPI\\sknhpm\\wwwroot\\",
       "BasePath": "_content/sknhpm",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.woff",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
     },
     {
-      "Identity": "D:\\sknhpm012\\sknhpm\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "Identity": "C:\\Users\\Admin\\Desktop\\ConsumAPI\\sknhpm\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
       "SourceId": "sknhpm",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sknhpm012\\sknhpm\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\ConsumAPI\\sknhpm\\wwwroot\\",
       "BasePath": "_content/sknhpm",
       "RelativePath": "css/open-iconic/FONT-LICENSE",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
     },
     {
-      "Identity": "D:\\sknhpm012\\sknhpm\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "Identity": "C:\\Users\\Admin\\Desktop\\ConsumAPI\\sknhpm\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
       "SourceId": "sknhpm",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sknhpm012\\sknhpm\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\ConsumAPI\\sknhpm\\wwwroot\\",
       "BasePath": "_content/sknhpm",
       "RelativePath": "css/open-iconic/ICON-LICENSE",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\ICON-LICENSE"
     },
     {
-      "Identity": "D:\\sknhpm012\\sknhpm\\wwwroot\\css\\open-iconic\\README.md",
+      "Identity": "C:\\Users\\Admin\\Desktop\\ConsumAPI\\sknhpm\\wwwroot\\css\\open-iconic\\README.md",
       "SourceId": "sknhpm",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sknhpm012\\sknhpm\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\ConsumAPI\\sknhpm\\wwwroot\\",
       "BasePath": "_content/sknhpm",
       "RelativePath": "css/open-iconic/README.md",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\README.md"
     },
     {
-      "Identity": "D:\\sknhpm012\\sknhpm\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\Admin\\Desktop\\ConsumAPI\\sknhpm\\wwwroot\\css\\site.css",
       "SourceId": "sknhpm",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sknhpm012\\sknhpm\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\ConsumAPI\\sknhpm\\wwwroot\\",
       "BasePath": "_content/sknhpm",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "D:\\sknhpm012\\sknhpm\\wwwroot\\favicon.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\ConsumAPI\\sknhpm\\wwwroot\\favicon.png",
       "SourceId": "sknhpm",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\sknhpm012\\sknhpm\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\ConsumAPI\\sknhpm\\wwwroot\\",
       "BasePath": "_content/sknhpm",
       "RelativePath": "favicon.png",
       "AssetKind": "All",
