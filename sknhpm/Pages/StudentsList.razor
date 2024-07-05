@@ -1,0 +1,43 @@
+@page "/StudentsList"
+@using ViewModel
+
+<div class="card">
+    <div class="card-title">
+        <h6>Students list</h6>
+    </div>
+    <div class="card-body">
+        <table>
+            <thead>
+                <tr>
+                    <td>First name</td>
+                    <td>Last name</td>
+                    <td>Age</td>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach(var item in students)
+                {
+                    <tr>
+                        <td>@item.FirstName</td>
+                        <td>@item.LastName</td>
+                        <td>@item.Age</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+
+@code {
+    [Inject]
+    public IHttpClientFactory _httpClientFactory {get; set;}
+    private List<Student> students {get; set;} = new();
+    protected override async Task OnInitializedAsync()
+    {
+        var client = _httpClientFactory.CreateClient("api");
+        var response = await client.GetFromJsonAsync<IEnumerable<Student>>("api/student/getAllStudents");
+        students = response.ToList();
+        await Task.CompletedTask;
+    }
+}
+

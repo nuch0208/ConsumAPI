@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "sknhpm/1.0.0": {
+        "dependencies": {
+          "ViewModel": "1.0.0"
+        },
+        "runtime": {
+          "sknhpm.dll": {}
+        }
+      },
+      "ViewModel/1.0.0": {
+        "runtime": {
+          "ViewModel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "sknhpm/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ViewModel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

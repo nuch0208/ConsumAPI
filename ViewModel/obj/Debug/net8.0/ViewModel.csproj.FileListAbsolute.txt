@@ -1,0 +1,11 @@
+D:\sknhpm012\ViewModel\bin\Debug\net8.0\ViewModel.deps.json
+D:\sknhpm012\ViewModel\bin\Debug\net8.0\ViewModel.dll
+D:\sknhpm012\ViewModel\bin\Debug\net8.0\ViewModel.pdb
+D:\sknhpm012\ViewModel\obj\Debug\net8.0\ViewModel.GeneratedMSBuildEditorConfig.editorconfig
+D:\sknhpm012\ViewModel\obj\Debug\net8.0\ViewModel.AssemblyInfoInputs.cache
+D:\sknhpm012\ViewModel\obj\Debug\net8.0\ViewModel.AssemblyInfo.cs
+D:\sknhpm012\ViewModel\obj\Debug\net8.0\ViewModel.csproj.CoreCompileInputs.cache
+D:\sknhpm012\ViewModel\obj\Debug\net8.0\ViewModel.dll
+D:\sknhpm012\ViewModel\obj\Debug\net8.0\refint\ViewModel.dll
+D:\sknhpm012\ViewModel\obj\Debug\net8.0\ViewModel.pdb
+D:\sknhpm012\ViewModel\obj\Debug\net8.0\ref\ViewModel.dll
